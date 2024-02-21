@@ -24,7 +24,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to InQUIZitive.
+          Welcome to InQUIZitive. today is wednesday
         </p>
       </header>
     </div>
